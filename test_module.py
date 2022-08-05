@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def add(a: int, b: int) -> float:
     """
     This function add two integers
